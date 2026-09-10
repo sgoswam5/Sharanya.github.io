@@ -1,11 +1,11 @@
 # Sharanya.github.io
 
-Personal portfolio site for Sharanya, built as a lightweight static GitHub Pages site.
+Personal portfolio site for Sharanya Goswami, a Johns Hopkins biomedical engineering student and researcher. The site is a lightweight static GitHub Pages build with expandable coursework, experience, and project sections.
 
 ## Customize
 
-- Replace the placeholder copy in `index.html` with your bio, courses, experience, and project details.
-- Update the email links and project links in `index.html`.
+- Add project images or figures inside the `.project-figure` areas in `index.html`.
+- Replace the project email links with case-study or repository URLs as they become available.
 - Adjust colors, typography, and layout in `styles.css` if needed.
 
 ## Publish
